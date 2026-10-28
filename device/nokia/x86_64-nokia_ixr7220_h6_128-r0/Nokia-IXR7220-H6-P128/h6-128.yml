@@ -2201,3 +2201,9 @@ device:
         CTR_ING_COS_Q_CONFIG:
             COS_ENABLE: 0
 ...
+---
+device:
+    0:
+        PC_PORT_MONITOR:
+            FEC_STAT_AUTO_COLLECT_INTERVAL_S: 1
+...
