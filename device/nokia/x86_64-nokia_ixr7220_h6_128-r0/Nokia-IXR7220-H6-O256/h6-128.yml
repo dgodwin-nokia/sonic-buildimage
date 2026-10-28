@@ -2755,3 +2755,9 @@ device:
                 PFC: 1
                 LOSSLESS: 1
 ...
+---
+device:
+    0:
+        PC_PORT_MONITOR:
+            FEC_STAT_AUTO_COLLECT_INTERVAL_S: 1
+...
